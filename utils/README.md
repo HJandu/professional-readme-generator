@@ -1,10 +1,10 @@
-# Project 1
+# p
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
-  Testing my code to see if it inserts an image
+  dc
   
-  ![Image](./images/under_chin.jpeg)
+  ![Image](/images/under_chin.jpg)
 
   ## Table of Contents
   - [Installation](#installation)
@@ -15,18 +15,18 @@
   - [Questions](#questions)
 
   ## Installation
-  later
+  
   ## Usage
-  later
+  d
   ## Contribution
-  later
+  d
   ## Tests
-  later
+  c
   ## License
   This application is covered under the MIT license.
   ## Questions
   If you would like to contact me with any questions regarding this project, you can email me on the address below. 
-  Email: hardipjandu@outlook.com
+  Email: wdc
   You can also find me on GitHub, where you can explore other projects created by me.
-  GitHub: [HJandu]()
+  GitHub: [dc]()
 
