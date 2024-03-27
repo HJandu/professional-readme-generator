@@ -1,6 +1,11 @@
 # Professional README Generator
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+## Demo 
+
+
+[Readme Generator Demo.webm](https://github.com/HJandu/professional-readme-generator/assets/116304118/10b41668-fe00-495a-afc3-016fd694227c)
+
   ## Description
   When creating an open-source project on GitHub, it’s important to have a high-quality README for the app. For this project I have create a README generator, which will create a professional README file by prompting the user to input the following: Project title, Description, Installation, Usage, License, Contributing, Tests. In this README generator, the user can upload an image too. 
   
