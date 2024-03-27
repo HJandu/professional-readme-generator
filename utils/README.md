@@ -28,5 +28,5 @@
   If you would like to contact me with any questions regarding this project, you can email me on the address below. 
   Email: hardipjandu@outlook.com
   You can also find me on GitHub, where you can explore other projects created by me.
-  GitHub: [HJandu]()
+  GitHub: [HJandu](https://github.com/HJandu)
 
